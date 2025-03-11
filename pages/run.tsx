@@ -1,3 +1,4 @@
+import React from 'react';
 import dynamic from 'next/dynamic';
 import { useResize, useScroll } from '../lib/hooks';
 import PopupMessage from '../components/PopupMessage';

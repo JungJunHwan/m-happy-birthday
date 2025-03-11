@@ -18,8 +18,7 @@ function Cake({ gift }: { gift?: boolean; message?: string }) {
       <div className='w-[350px] h-[100px] bg-gray-100 overflow-hidden relative rounded-sm'>
         <Circle count={8} />
         <div className='w-full flex justify-center mt-6'>
-          <Image src='/jh.png' width={80} height={80} alt='ceo' />
-          <Image src='/js.png' width={80} height={80} alt='ceo' />
+          <Image src='/gy.png' width={80} height={80} alt='ceo' />
         </div>
       </div>
       <div className='w-[450px] h-[100px] bg-gray-100 overflow-hidden relative rounded-sm'>
